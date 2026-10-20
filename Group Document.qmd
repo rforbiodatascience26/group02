@@ -17,6 +17,13 @@ I made it
 
 josh was here
 
+### new feature
+
+hello hi testing
+
+```{r} x <- 5 name <- "Josh" numbers <- c(1, 2, 3, 4)}
+```
+
 ## Leon
 
 Hallihallohallöchen
