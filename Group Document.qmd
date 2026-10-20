@@ -29,4 +29,10 @@ hello hi testing
 
 Hallihallohallöchen
 
+### New feature
+
+```{r}
+1+1
+```
+
 ## Alex
